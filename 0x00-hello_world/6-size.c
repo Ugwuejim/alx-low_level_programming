@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - print various type of data in c 
+ * main - Entry point 
  *
- * Description: 'Data Types'
+ * Description: Data Types
  *
  * Return : Always 0 (Success)
  */
