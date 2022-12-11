@@ -4,11 +4,11 @@
 /**
  * main - print and that piece of art is useful
  *
- * Reture: Always 1 (Success)
+ * Reture: int 0 when done and no errors.
  */
 int main(void)
 
 {
-	write(2, "and that piece of art is useful\" . Dora Korpar, 2015-10-19\n", 59);
+	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
 	return (1);
 }
