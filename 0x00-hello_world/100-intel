@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S intel $CFILE -o 100main.s
+gcc -S intel_syntax $CFILE -o 100main.s
