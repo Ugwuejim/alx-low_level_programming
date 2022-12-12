@@ -5,6 +5,8 @@
 /**
  * main - Entry point
  *
+ * Description: assign a random to the variable n
+ *
  * Reture: Always 0 (Success)
  */
 int main(void)
