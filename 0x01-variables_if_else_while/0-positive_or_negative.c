@@ -4,8 +4,6 @@
 
 /**
  * main - Entry point
- * 
- * Description: reture value to 0
  *
  * Reture: Always 0 (Success)
  */
