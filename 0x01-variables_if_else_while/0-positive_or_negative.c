@@ -1,11 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 /**
- * main - Entry point
- *
- * Description: assign a random to the variable n
+ * main - print whether the number stored in the variable n is positive or negative
  *
  * Reture: Always 0 (Success)
  */
