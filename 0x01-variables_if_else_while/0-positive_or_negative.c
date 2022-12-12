@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - print whether the number stored in the variable n 
+ * main - print whether the number stored in the variable n
  *
  * Reture: Always 0 (Success)
  */
