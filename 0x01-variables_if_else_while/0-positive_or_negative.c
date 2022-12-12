@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - to assign a random number
+ * main - Entry point
  * 
  * Reture: Always 0 (Success)
  */
@@ -21,7 +21,7 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	else (n < 0)
+	else (n < 0);
 	{
 		printf("%d is negative\n", n);
 	}
